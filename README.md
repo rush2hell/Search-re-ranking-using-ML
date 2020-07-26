@@ -36,5 +36,4 @@ These project is based on Machine Learning where we have our search engine in wh
  - Recommendation System
 
 **Demo for Project**
-![youtube_link](https://www.youtube.com/watch?v=65-kOyLmWTU)
 ![YouTube Video Views](https://img.shields.io/youtube/views/65-kOyLmWTU?style=social)
