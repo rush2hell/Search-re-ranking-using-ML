@@ -20,7 +20,7 @@ These project is based on Machine Learning where we have our search engine in wh
 
 ![Picture2](https://user-images.githubusercontent.com/47297909/88476396-9fe55c80-cf55-11ea-9a5b-1b5636023877.png)
 
-**Re-ranked Result
+**Re-ranked Result**
 
 ![Picture3](https://user-images.githubusercontent.com/47297909/88476398-a378e380-cf55-11ea-8409-c6f48e400f4c.png)
 
