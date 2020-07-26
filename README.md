@@ -16,17 +16,15 @@ These project is based on Machine Learning where we have our search engine in wh
 
 **Project Demo**
 
-![Picture1](https://user-images.githubusercontent.com/47297909/88476163-f0f45100-cf53-11ea-95cf-2480675cb62b.jpg)
+![Picture1](https://user-images.githubusercontent.com/47297909/88476392-9b20a880-cf55-11ea-96e3-3c70aa056c12.jpg)
 
+![Picture2](https://user-images.githubusercontent.com/47297909/88476396-9fe55c80-cf55-11ea-9a5b-1b5636023877.png)
 
-![Picture2](https://user-images.githubusercontent.com/47297909/88476169-049fb780-cf54-11ea-9d7e-823cbc171d00.png)
+**Re-ranked Result
 
-**Re-Ranked Result**
+![Picture3](https://user-images.githubusercontent.com/47297909/88476398-a378e380-cf55-11ea-8409-c6f48e400f4c.png)
 
-![Picture3](https://user-images.githubusercontent.com/47297909/88476173-0a959880-cf54-11ea-9865-3fab47b97ff2.png)
-
-
-![Picture4](https://user-images.githubusercontent.com/47297909/88476174-0e291f80-cf54-11ea-963b-e5596b169f1e.png)
+![Picture4](https://user-images.githubusercontent.com/47297909/88476400-a70c6a80-cf55-11ea-95f3-ea8aed499370.png)
 
 
 **Applications**
