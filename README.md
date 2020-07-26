@@ -12,4 +12,4 @@ These project is based on Machine Learning where we have our search engine in wh
 
 **Technologies**
 
-![GitHub top language](https://img.shields.io/github/languages/top/rush2hell/Search%20re-ranking%20using%20ML)  ![google_api](https://img.shields.io/badge/google-api-yellowgreen)  ![json_api](https://img.shields.io/badge/JSON-api-green)
+![GitHub top language](https://img.shields.io/github/languages/top/rush2hell/Search-re-ranking-using-ML)  ![google_api](https://img.shields.io/badge/google-api-yellowgreen)  ![json_api](https://img.shields.io/badge/JSON-api-green)
